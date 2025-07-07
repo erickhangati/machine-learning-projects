@@ -40,5 +40,5 @@ Projects in this repo explore various aspects of machine learning, including:
 To clone the repository and explore:
 
 ```bash
-git clone https://github.com/yourusername/ml-projects.git
-cd ml-projects
+git clone https://github.com/erickhangati/machine-learning-projects.git
+cd machine-learning-projects
