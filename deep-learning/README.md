@@ -33,8 +33,8 @@ Unlike traditional projects that rely on libraries like TensorFlow or PyTorch, t
 ## 📂 File Structure
 
 ```
-/mnist-from-scratch/
-├── mnist-digit-classification.ipynb
+deep-learning/
+├── neural-network.ipynb
 └── README.md (this file)
 ```
 
