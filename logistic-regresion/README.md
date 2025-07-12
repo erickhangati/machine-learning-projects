@@ -44,7 +44,7 @@ Source: [Kaggle - Spam Email Classification Dataset](https://www.kaggle.com/data
 
 ## 📂 Folder Structure
 
-```bash
+```
 logistic-regression/
 ├── combined-data.csv 
 ├── email-spam-classification.ipynb # Jupyter notebook (main project)

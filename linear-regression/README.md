@@ -7,7 +7,7 @@ This project demonstrates how to build and train a **linear regression model fro
 ---
 
 ## 📂 Project Structure
-```bash
+```
 linear-regression/
 ├── train.csv # Original dataset (not committed to Git)
 ├── house-price-prediction.ipynb # Complete Jupyter Notebook
