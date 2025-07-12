@@ -14,12 +14,15 @@ This repository contains a growing collection of **real-world ML projects** — 
 - Built from scratch using NumPy (no ML libraries)
 - Covers cost function, feature scaling, gradient descent, and model evaluation
 
-<!-- Add more projects below as they’re completed -->
-<!-- Example:
-### 🧠 [Logistic Regression – Email Spam Classification](./spam-logistic/)
-- Predict spam vs. non-spam from email features
-- Uses scikit-learn, pandas, and seaborn
--->
+### 📧 [Logistic Regression – Spam Email Classification (NumPy Only)](./logistic-regression/)
+- Classify emails as spam or ham using logistic regression
+- Preprocessed 10,000+ real emails (TREC + Enron datasets)
+- Implemented sigmoid, binary cross-entropy, gradient descent, and L2 regularization
+
+### 🧠 [Neural Network – MNIST Digit Classification (NumPy Only)](./deep-learning/)
+- Handwritten digit recognition using a feedforward neural network
+- Fully implemented with NumPy: forward pass, backpropagation, softmax, ReLU
+- Achieved ~97.5% test accuracy on MNIST without any ML libraries
 
 ---
 

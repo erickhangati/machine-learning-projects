@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="feat: add prediction visualization">
-      <change afterPath="$PROJECT_DIR$/deep-learning/README.md" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="feat: add README file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-regression/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linear-regression/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logistic-regresion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/logistic-regresion/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <workItem from="1752121366991" duration="11000" />
       <workItem from="1752302105619" duration="4735000" />
       <workItem from="1752307340496" duration="16985000" />
-      <workItem from="1752335325383" duration="2542000" />
+      <workItem from="1752335325383" duration="3265000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -152,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752336836746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: add README file">
+      <option name="closed" value="true" />
+      <created>1752337940804</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752337940804</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: add README file">
+      <option name="closed" value="true" />
+      <created>1752338070873</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752338070873</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +181,7 @@
     <MESSAGE value="feat: add neural-network project" />
     <MESSAGE value="feat: implement MNIST project" />
     <MESSAGE value="feat: add prediction visualization" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add prediction visualization" />
+    <MESSAGE value="feat: add README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add README file" />
   </component>
 </project>
