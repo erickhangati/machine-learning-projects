@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="feat: add Evaluation &amp; Model Tuning">
-      <change afterPath="$PROJECT_DIR$/evaluation-and-model-tuning/README.md" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="feat: add README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,9 @@
       <workItem from="1752653859922" duration="24000" />
       <workItem from="1752906132367" duration="8477000" />
       <workItem from="1752929918366" duration="3000" />
-      <workItem from="1752934687323" duration="924000" />
+      <workItem from="1752934687323" duration="3114000" />
+      <workItem from="1752982158246" duration="2000" />
+      <workItem from="1752983528902" duration="1410000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -196,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752935281450</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: add README.md">
+      <option name="closed" value="true" />
+      <created>1752935687656</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1752935687656</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,13 +217,13 @@
     <MESSAGE value="fix: correct repo link" />
     <MESSAGE value="fix: correct printing iterations" />
     <MESSAGE value="feat: add logistic regression" />
-    <MESSAGE value="feat: add README.md" />
     <MESSAGE value="feat: add neural-network project" />
     <MESSAGE value="feat: implement MNIST project" />
     <MESSAGE value="feat: add prediction visualization" />
     <MESSAGE value="feat: add README file" />
     <MESSAGE value="feat: rename directory" />
     <MESSAGE value="feat: add Evaluation &amp; Model Tuning" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add Evaluation &amp; Model Tuning" />
+    <MESSAGE value="feat: add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add README.md" />
   </component>
 </project>

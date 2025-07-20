@@ -24,6 +24,11 @@ This repository contains a growing collection of **real-world ML projects** — 
 - Fully implemented with NumPy: forward pass, backpropagation, softmax, ReLU
 - Achieved ~97.5% test accuracy on MNIST without any ML libraries
 
+### 🧪 [Model Evaluation – Underfitting & Overfitting with Polynomial Regression](./evaluation-and-model-tuning/)
+- Visual analysis of model complexity using polynomial regression
+- Detect underfitting and overfitting using RMSE and learning curves
+- Built with `scikit-learn` on the California Housing dataset
+
 ---
 
 ## 🛠️ Tools & Techniques
