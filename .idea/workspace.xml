@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update README.md">
-      <change afterPath="$PROJECT_DIR$/decision-trees/titanic-survival-prediction-project.ipynb" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="feat: add Titanic Prediction Project">
+      <change afterPath="$PROJECT_DIR$/decision-trees/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,7 @@
       <workItem from="1752934687323" duration="3114000" />
       <workItem from="1752982158246" duration="2000" />
       <workItem from="1752983528902" duration="2681000" />
-      <workItem from="1753167305196" duration="13073000" />
+      <workItem from="1753167305196" duration="14562000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -220,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752992427350</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat: add Titanic Prediction Project">
+      <option name="closed" value="true" />
+      <created>1753192575029</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1753192575029</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +247,7 @@
     <MESSAGE value="feat: add Evaluation &amp; Model Tuning" />
     <MESSAGE value="feat: add README.md" />
     <MESSAGE value="fix: update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update README.md" />
+    <MESSAGE value="feat: add Titanic Prediction Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add Titanic Prediction Project" />
   </component>
 </project>
