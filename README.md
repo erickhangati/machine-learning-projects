@@ -29,6 +29,11 @@ This repository contains a growing collection of **real-world ML projects** — 
 - Detect underfitting and overfitting using RMSE and learning curves
 - Built with `scikit-learn` on the California Housing dataset
 
+### 🚢 [Decision Trees – Titanic Survival Prediction (scikit-learn)](./decision-trees/)
+- Predict passenger survival on the Titanic using decision trees
+- Complete walkthrough: data cleaning, EDA, training, pruning, and evaluation
+- Visualized tree structure and explained concepts like entropy, information gain, and max_depth
+
 ---
 
 ## 🛠️ Tools & Techniques
