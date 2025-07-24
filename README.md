@@ -34,6 +34,11 @@ This repository contains a growing collection of **real-world ML projects** — 
 - Complete walkthrough: data cleaning, EDA, training, pruning, and evaluation
 - Visualized tree structure and explained concepts like entropy, information gain, and max_depth
 
+### 📉 [Tree Ensembles – Customer Churn Prediction (Random Forest & XGBoost)](./tree-ensembles/)
+- Predict telecom customer churn using advanced tree-based models
+- Includes data cleaning, EDA, model comparison, feature importance, and hyperparameter tuning
+- Final model (tuned XGBoost) achieves strong accuracy and recall for churn detection
+
 ---
 
 ## 🛠️ Tools & Techniques
