@@ -67,3 +67,11 @@ To run the notebook:
 2. Install NumPy and Matplotlib
 3. Launch `mnist-digit-classification.ipynb` in Jupyter
 4. Run all cells to train and test the model
+
+---
+
+## 📘 Blog Article
+
+A beginner-friendly article based on this project is published on my blog ([Neural Network from Scratch with NumPy for MNIST Digits](https://erickhangati.com/neural-network-from-with-numpy-for-mnist-digits/)) to walk through all the steps in-depth.
+
+---
