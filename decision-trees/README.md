@@ -56,5 +56,10 @@ We use the **Titanic dataset** from [Kaggle](https://www.kaggle.com/datasets/yas
 - **After pruning (max_depth=3):** Accuracy improved to **82%**
 - Balanced performance across classes using precision/recall/F1
 
+---
 
+## 📘 Blog Article
 
+A beginner-friendly article based on this project is published on my blog ([Decision trees explained through the Titanic dataset](https://erickhangati.com/decision-trees-explained-through-titanic-dataset/)) to walk through all the steps in-depth.
+
+---
