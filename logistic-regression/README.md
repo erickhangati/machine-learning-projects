@@ -68,3 +68,11 @@ pip install numpy pandas matplotlib scikit-learn
 - Applying NLP preprocessing on real-world text.
 - How logistic regression makes probabilistic predictions.
 - The role of regularization in preventing overfitting.
+
+---
+
+## 📘 Blog Article
+
+A beginner-friendly article based on this project is published on my blog ([Logistic Regression for Email Spam Detection with NumPy](https://erickhangati.com/logistic-regression-for-spam-detection-with-numpy/)) to walk through all the steps in-depth.
+
+---
