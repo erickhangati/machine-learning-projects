@@ -67,3 +67,12 @@ linear-regression/
 
 ```bash
 pip install numpy pandas matplotlib
+```
+
+---
+
+## 📘 Blog Article
+
+A beginner-friendly article based on this project is published on my blog ([Linear Regression With NumPy: House Price Prediction](https://erickhangati.com/linear-regression-with-numpy-house-price-prediction/)) to walk through all the steps in-depth.
+
+---
