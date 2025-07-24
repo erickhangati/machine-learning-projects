@@ -75,3 +75,11 @@ evaluation-and-model-tuning/
 - Diagnosing bias and variance with learning curves
 - Choosing the best model using validation error
 - Building explainable ML visualizations from scratch
+
+---
+
+## 📘 Blog Article
+
+A beginner-friendly article based on this project is published on my blog ([Underfitting and Overfitting with Polynomial Regression](https://erickhangati.com/underfitting-and-overfitting-with-polynomial-regression/)) to walk through all the steps in-depth.
+
+---
