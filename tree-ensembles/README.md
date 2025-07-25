@@ -18,7 +18,7 @@ It’s a complete beginner-friendly implementation in a Jupyter Notebook — fro
 
 ## 📁 Dataset
 
-- **Source**: IBM Sample Data – Telco Customer Churn
+- **Source**: [IBM Sample Data – Telco Customer Churn](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)
 - **Shape**: `7043 rows × 33 columns`
 - **Target Column**: `Churn Label` (Yes/No)
 
@@ -60,9 +60,9 @@ It’s a complete beginner-friendly implementation in a Jupyter Notebook — fro
 
 ---
 
-## 📘 Blog Article (Coming Soon)
+## 📘 Blog Article
 
-A beginner-friendly article based on this project will be published on [Medium](https://medium.com/@yourprofile) to walk through all the steps in-depth.
+A beginner-friendly article based on this project will be published on [(Customer Churn Prediction With Random Forest and XGBoost)](https://erickhangati.com/customer-churn-prediction-with-random-forest-and-xgboost/) to walk through all the steps in-depth.
 
 ---
 
