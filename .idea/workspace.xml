@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: add README.md">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update README.md">
+      <change afterPath="$PROJECT_DIR$/exploratory-data-analysis/telco-customer-chun.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree-ensembles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/tree-ensembles/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -52,15 +54,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CODE/MACHINE_LEARNING/PROJECTS/machine-learning-projects/exploratory-data-analysis&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\exploratory-data-analysis" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
@@ -103,7 +110,17 @@
       <workItem from="1753331853762" duration="11000" />
       <workItem from="1753347410301" duration="656000" />
       <workItem from="1753348170357" duration="18162000" />
-      <workItem from="1753418513263" duration="291000" />
+      <workItem from="1753418513263" duration="2138000" />
+      <workItem from="1753677644221" duration="364000" />
+      <workItem from="1754407696169" duration="5638000" />
+      <workItem from="1754459246839" duration="17021000" />
+      <workItem from="1754548633735" duration="11036000" />
+      <workItem from="1754625486665" duration="21198000" />
+      <workItem from="1754714605143" duration="11182000" />
+      <workItem from="1754806291275" duration="12675000" />
+      <workItem from="1754840077040" duration="3260000" />
+      <workItem from="1754893353212" duration="4840000" />
+      <workItem from="1754974310707" duration="22856000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -313,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753377421026</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="fix: update README.md">
+      <option name="closed" value="true" />
+      <created>1753418838372</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1753418838372</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,11 +355,11 @@
     <MESSAGE value="feat: add README file" />
     <MESSAGE value="feat: rename directory" />
     <MESSAGE value="feat: add Evaluation &amp; Model Tuning" />
-    <MESSAGE value="fix: update README.md" />
     <MESSAGE value="feat: add Titanic Prediction Project" />
     <MESSAGE value="feat: add customer chun prediction project" />
     <MESSAGE value="feat: add README.md" />
     <MESSAGE value="fix: add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: add README.md" />
+    <MESSAGE value="fix: update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update README.md" />
   </component>
 </project>
