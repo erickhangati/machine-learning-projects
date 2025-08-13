@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="feat: add EDA project">
-      <change afterPath="$PROJECT_DIR$/exploratory-data-analysis/README.md" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="feat: add dataset">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploratory-data-analysis/telco-customer-chun.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exploratory-data-analysis/telco-customer-chun.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +121,7 @@
       <workItem from="1754840077040" duration="3260000" />
       <workItem from="1754893353212" duration="4840000" />
       <workItem from="1754974310707" duration="27648000" />
-      <workItem from="1755071975554" duration="727000" />
+      <workItem from="1755071975554" duration="2448000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -348,7 +347,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755014236575</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="feat: add README.md">
+      <option name="closed" value="true" />
+      <created>1755072952324</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1755072952324</updated>
+    </task>
+    <task id="LOCAL-00030" summary="feat: add dataset">
+      <option name="closed" value="true" />
+      <created>1755073140136</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1755073140136</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,10 +382,11 @@
     <MESSAGE value="feat: add Evaluation &amp; Model Tuning" />
     <MESSAGE value="feat: add Titanic Prediction Project" />
     <MESSAGE value="feat: add customer chun prediction project" />
-    <MESSAGE value="feat: add README.md" />
     <MESSAGE value="fix: add README.md" />
     <MESSAGE value="fix: update README.md" />
     <MESSAGE value="feat: add EDA project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add EDA project" />
+    <MESSAGE value="feat: add README.md" />
+    <MESSAGE value="feat: add dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add dataset" />
   </component>
 </project>

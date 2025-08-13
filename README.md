@@ -9,6 +9,12 @@ This repository contains a growing collection of **real-world ML projects** — 
 
 ## 📁 Projects
 
+### 📊 [EDA, Feature Engineering & Hypothesis Testing - Telco Customer Churn](./exploratory-data-analysis/)
+- Analyze factors influencing telecom customer churn
+- Perform data cleaning, feature engineering, univariate & bivariate EDA
+- Conduct hypothesis testing (t-test, Chi-square, z-test) to validate business assumptions
+- Generate actionable insights and recommendations for customer retention strategies
+
 ### 🏡 [Linear Regression – House Price Prediction (NumPy Only)](./linear-regression/)
 - Predict Seattle house prices based on house size
 - Built from scratch using NumPy (no ML libraries)
