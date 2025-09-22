@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update EDA">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: re-arrange files">
+      <change afterPath="$PROJECT_DIR$/linear-regression/medical-insurance-charges-prediction/medical-insurance-charges-prediction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-regression/house-price-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/linear-regression/house-price-prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -70,6 +70,8 @@
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\exploratory-data-analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\linear-regression\medical-insurance-charges-prediction" />
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\linear-regression\house-price-prediction" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
     </key>
@@ -134,6 +136,9 @@
       <workItem from="1756435104395" duration="111000" />
       <workItem from="1756435224952" duration="113000" />
       <workItem from="1756448868631" duration="25000" />
+      <workItem from="1758349088375" duration="16590000" />
+      <workItem from="1758428015749" duration="28395000" />
+      <workItem from="1758521821625" duration="10966000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -391,7 +396,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756288010751</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="fix: update EDA">
+      <option name="closed" value="true" />
+      <created>1758349142369</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1758349142369</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update: re-arrange files">
+      <option name="closed" value="true" />
+      <created>1758352011054</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1758352011054</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +448,8 @@
     <MESSAGE value="feat: add README.md" />
     <MESSAGE value="feat: add dataset" />
     <MESSAGE value="fix: update EDA" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update EDA" />
+    <MESSAGE value="update: re-arrange files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: re-arrange files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
