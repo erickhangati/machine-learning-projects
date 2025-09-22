@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: re-arrange files">
-      <change afterPath="$PROJECT_DIR$/linear-regression/medical-insurance-charges-prediction/medical-insurance-charges-prediction.ipynb" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add medical cost project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear-regression/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linear-regression/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,7 @@
       <workItem from="1756448868631" duration="25000" />
       <workItem from="1758349088375" duration="16590000" />
       <workItem from="1758428015749" duration="28395000" />
-      <workItem from="1758521821625" duration="10966000" />
+      <workItem from="1758521821625" duration="11340000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -412,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758352011054</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="update: add medical cost project">
+      <option name="closed" value="true" />
+      <created>1758533641813</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1758533641814</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +457,8 @@
     <MESSAGE value="feat: add dataset" />
     <MESSAGE value="fix: update EDA" />
     <MESSAGE value="update: re-arrange files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: re-arrange files" />
+    <MESSAGE value="update: add medical cost project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: add medical cost project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
