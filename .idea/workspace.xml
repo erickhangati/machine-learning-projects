@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactored code" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactored code">
+      <change beforePath="$PROJECT_DIR$/linear-regression/house-price-prediction/house-price-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/linear-regression/house-price-prediction/house-price-prediction.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +139,7 @@
       <workItem from="1758428015749" duration="28395000" />
       <workItem from="1758521821625" duration="14638000" />
       <workItem from="1758551468386" duration="11550000" />
-      <workItem from="1758594649124" duration="17157000" />
+      <workItem from="1758594649124" duration="17546000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update files">
       <option name="closed" value="true" />
@@ -467,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758617016828</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="fix: refactored code">
+      <option name="closed" value="true" />
+      <created>1758617183705</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1758617183705</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
