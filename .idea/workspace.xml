@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: healthcare appointment" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: healthcare appointment">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,23 +152,7 @@
       <workItem from="1759461777290" duration="11425000" />
       <workItem from="1759479646483" duration="15871000" />
       <workItem from="1759546701148" duration="18361000" />
-      <workItem from="1759634741068" duration="18546000" />
-    </task>
-    <task id="LOCAL-00003" summary="fix: correct printing iterations">
-      <option name="closed" value="true" />
-      <created>1751905197405</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1751905197405</updated>
-    </task>
-    <task id="LOCAL-00004" summary="feat: add logistic regression">
-      <option name="closed" value="true" />
-      <created>1751998337577</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1751998337577</updated>
+      <workItem from="1759634741068" duration="18952000" />
     </task>
     <task id="LOCAL-00005" summary="feat: add README.md">
       <option name="closed" value="true" />
@@ -544,7 +530,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759663848185</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="add: healthcare appointment">
+      <option name="closed" value="true" />
+      <created>1759663937679</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1759663937679</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add: healthcare appointment">
+      <option name="closed" value="true" />
+      <created>1759663966467</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1759663966467</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
