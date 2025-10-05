@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactored code">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: healthcare appointment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,15 +152,7 @@
       <workItem from="1759461777290" duration="11425000" />
       <workItem from="1759479646483" duration="15871000" />
       <workItem from="1759546701148" duration="18361000" />
-      <workItem from="1759634741068" duration="17141000" />
-    </task>
-    <task id="LOCAL-00001" summary="feat: update files">
-      <option name="closed" value="true" />
-      <created>1751904443573</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1751904443573</updated>
+      <workItem from="1759634741068" duration="18188000" />
     </task>
     <task id="LOCAL-00002" summary="fix: correct repo link">
       <option name="closed" value="true" />
@@ -547,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759418409249</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="add: healthcare appointment">
+      <option name="closed" value="true" />
+      <created>1759662872510</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1759662872510</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +586,8 @@
     <MESSAGE value="update: add medical cost project" />
     <MESSAGE value="fix: move README" />
     <MESSAGE value="fix: refactored code" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: refactored code" />
+    <MESSAGE value="add: healthcare appointment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: healthcare appointment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
