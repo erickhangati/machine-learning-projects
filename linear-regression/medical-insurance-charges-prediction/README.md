@@ -10,8 +10,8 @@ This project applies **Linear, Ridge, and Lasso Regression** models (with Polyno
 
 ```
 medical-insurance-charges-prediction/
-├── insurance.csv # Original dataset (not committed to Git)
-├── medical-cost-prediction.ipynb # Complete Jupyter Notebook
+├── medical-insurance.csv
+├── medical-cost-prediction.ipynb
 └── README.md # This file
 ```
 
