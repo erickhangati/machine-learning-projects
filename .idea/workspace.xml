@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: healthcare appointment">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +154,8 @@
       <workItem from="1759479646483" duration="15871000" />
       <workItem from="1759546701148" duration="18361000" />
       <workItem from="1759634741068" duration="18952000" />
+      <workItem from="1759680949504" duration="877000" />
+      <workItem from="1759719288951" duration="2143000" />
     </task>
     <task id="LOCAL-00005" summary="feat: add README.md">
       <option name="closed" value="true" />
