@@ -9,8 +9,9 @@ This project demonstrates how to build and train a **linear regression model fro
 ## 📂 Project Structure
 ```
 /house-price-prediction/
-├── train.csv # Original dataset (not committed to Git)
-├── house-price-prediction.ipynb # Complete Jupyter Notebook
+├── seattle-housing-test-data.csv 
+├── seattle-housing-train-data.csv 
+├── house-price-prediction.ipynb
 └── README.md # This file
 ```
 ---
