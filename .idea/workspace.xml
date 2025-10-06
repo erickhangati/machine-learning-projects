@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update house price prediction readme">
-      <change afterPath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/README.md" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: appointment prediction readme">
+      <change afterPath="$PROJECT_DIR$/logistic-regression/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,15 +156,7 @@
       <workItem from="1759546701148" duration="18361000" />
       <workItem from="1759634741068" duration="18952000" />
       <workItem from="1759680949504" duration="877000" />
-      <workItem from="1759719288951" duration="5274000" />
-    </task>
-    <task id="LOCAL-00008" summary="feat: add prediction visualization">
-      <option name="closed" value="true" />
-      <created>1752336836746</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1752336836746</updated>
+      <workItem from="1759719288951" duration="6887000" />
     </task>
     <task id="LOCAL-00009" summary="feat: add README file">
       <option name="closed" value="true" />
@@ -550,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759735047534</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="add: appointment prediction readme">
+      <option name="closed" value="true" />
+      <created>1759736770937</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1759736770937</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: correct repo link" />
     <MESSAGE value="fix: correct printing iterations" />
     <MESSAGE value="feat: add logistic regression" />
     <MESSAGE value="feat: add neural-network project" />
@@ -605,7 +604,8 @@
     <MESSAGE value="add: titanic dataset" />
     <MESSAGE value="fix: update medical insurance readme" />
     <MESSAGE value="fix: update house price prediction readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update house price prediction readme" />
+    <MESSAGE value="add: appointment prediction readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: appointment prediction readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
