@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: appointment prediction readme">
-      <change afterPath="$PROJECT_DIR$/logistic-regression/README.md" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: logistic regression projects readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +48,22 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/CODE/MACHINE_LEARNING/PROJECTS/machine-learning-projects/decision-trees",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
@@ -156,15 +156,8 @@
       <workItem from="1759546701148" duration="18361000" />
       <workItem from="1759634741068" duration="18952000" />
       <workItem from="1759680949504" duration="877000" />
-      <workItem from="1759719288951" duration="6887000" />
-    </task>
-    <task id="LOCAL-00009" summary="feat: add README file">
-      <option name="closed" value="true" />
-      <created>1752337940804</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1752337940804</updated>
+      <workItem from="1759719288951" duration="28521000" />
+      <workItem from="1759808236896" duration="9356000" />
     </task>
     <task id="LOCAL-00010" summary="feat: add README file">
       <option name="closed" value="true" />
@@ -550,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759736770937</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="add: logistic regression projects readme">
+      <option name="closed" value="true" />
+      <created>1759738048833</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1759738048833</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +581,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: correct printing iterations" />
     <MESSAGE value="feat: add logistic regression" />
     <MESSAGE value="feat: add neural-network project" />
     <MESSAGE value="feat: implement MNIST project" />
@@ -605,7 +605,8 @@
     <MESSAGE value="fix: update medical insurance readme" />
     <MESSAGE value="fix: update house price prediction readme" />
     <MESSAGE value="add: appointment prediction readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: appointment prediction readme" />
+    <MESSAGE value="add: logistic regression projects readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: logistic regression projects readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
