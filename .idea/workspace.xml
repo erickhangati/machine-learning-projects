@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="add: logistic regression projects readme">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactor code">
+      <change afterPath="$PROJECT_DIR$/KNN/Healthcare-Diabetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN/KNN-diabetes-prediction-numpy.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CODE/MACHINE_LEARNING/PROJECTS/machine-learning-projects/KNN&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -66,11 +67,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\KNN" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression\healthcare-appointment" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\exploratory-data-analysis" />
-      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\linear-regression" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression\email-spam-classification" />
@@ -157,15 +158,11 @@
       <workItem from="1759634741068" duration="18952000" />
       <workItem from="1759680949504" duration="877000" />
       <workItem from="1759719288951" duration="28521000" />
-      <workItem from="1759808236896" duration="9356000" />
-    </task>
-    <task id="LOCAL-00010" summary="feat: add README file">
-      <option name="closed" value="true" />
-      <created>1752338070873</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1752338070873</updated>
+      <workItem from="1759808236896" duration="11895000" />
+      <workItem from="1759940260505" duration="7024000" />
+      <workItem from="1759992034923" duration="6578000" />
+      <workItem from="1760002709825" duration="9903000" />
+      <workItem from="1760024836308" duration="1103000" />
     </task>
     <task id="LOCAL-00011" summary="feat: add README file">
       <option name="closed" value="true" />
@@ -551,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759738048833</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="fix: refactor code">
+      <option name="closed" value="true" />
+      <created>1759853440210</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1759853440211</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: add logistic regression" />
     <MESSAGE value="feat: add neural-network project" />
     <MESSAGE value="feat: implement MNIST project" />
     <MESSAGE value="feat: add prediction visualization" />
@@ -606,7 +610,8 @@
     <MESSAGE value="fix: update house price prediction readme" />
     <MESSAGE value="add: appointment prediction readme" />
     <MESSAGE value="add: logistic regression projects readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: logistic regression projects readme" />
+    <MESSAGE value="fix: refactor code" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: refactor code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
