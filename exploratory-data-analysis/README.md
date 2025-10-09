@@ -104,4 +104,5 @@ telco-customer-churn-eda/
 
 ## 📘 Blog Article
 
-A beginner-friendly article based on this project will be published on my blog to walk through every step in depth, including business context, code, and interpretations.
+A full beginner-friendly walkthrough of this project is available on my blog:
+[Exploratory Data Analysis, Feature Engineering & Hypothesis](https://erickhangati.com/exploratory-data-analysis-and-feature-engineering/)

@@ -71,3 +71,9 @@ medical-insurance-charges-prediction/
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+## 📘 Blog Article
+
+A full beginner-friendly walkthrough of this project is available on my blog:
+[Polynomial Regression Scikit-Learn: Medical Cost Prediction](https://erickhangati.com/polynomial-regression-medical-cost-prediction/)
