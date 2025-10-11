@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add knn with numpy">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update readme">
+      <change afterPath="$PROJECT_DIR$/KNN/knn-with-numpy/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear-regression/medical-insurance-charges-prediction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linear-regression/medical-insurance-charges-prediction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN/Healthcare-Diabetes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-numpy/Healthcare-Diabetes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN/KNN-diabetes-prediction-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-numpy/KNN-diabetes-prediction-numpy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CODE/MACHINE_LEARNING/PROJECTS/machine-learning-projects/KNN&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,11 +75,11 @@
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\exploratory-data-analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\KNN\knn-with-numpy" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression\email-spam-classification" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\linear-regression\house-price-prediction" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\linear-regression\medical-insurance-charges-prediction" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects" />
-      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -161,15 +163,11 @@
       <workItem from="1759940260505" duration="7024000" />
       <workItem from="1759992034923" duration="6578000" />
       <workItem from="1760002709825" duration="9903000" />
-      <workItem from="1760024836308" duration="1888000" />
-    </task>
-    <task id="LOCAL-00012" summary="feat: rename directory">
-      <option name="closed" value="true" />
-      <created>1752338732382</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1752338732382</updated>
+      <workItem from="1760024836308" duration="4737000" />
+      <workItem from="1760070806139" duration="1256000" />
+      <workItem from="1760076174212" duration="347000" />
+      <workItem from="1760078737734" duration="12789000" />
+      <workItem from="1760159434812" duration="3049000" />
     </task>
     <task id="LOCAL-00013" summary="feat: add Evaluation &amp; Model Tuning">
       <option name="closed" value="true" />
@@ -555,7 +553,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760026291059</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="fix: update readme">
+      <option name="closed" value="true" />
+      <created>1760026920050</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1760026920050</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: implement MNIST project" />
     <MESSAGE value="feat: add prediction visualization" />
     <MESSAGE value="feat: add README file" />
     <MESSAGE value="feat: rename directory" />
@@ -610,7 +615,8 @@
     <MESSAGE value="add: logistic regression projects readme" />
     <MESSAGE value="fix: refactor code" />
     <MESSAGE value="update: add knn with numpy" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: add knn with numpy" />
+    <MESSAGE value="fix: update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
