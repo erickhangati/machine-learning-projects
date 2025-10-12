@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update readme">
-      <change afterPath="$PROJECT_DIR$/KNN/knn-with-numpy/README.md" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: add README">
+      <change afterPath="$PROJECT_DIR$/KNN/knn-with-sckit-learn/heart_disease_uci.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN/knn-with-sckit-learn/predicting-heart-disease.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN/Healthcare-Diabetes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-numpy/Healthcare-Diabetes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN/KNN-diabetes-prediction-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-numpy/KNN-diabetes-prediction-numpy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,23 +166,11 @@
       <workItem from="1760070806139" duration="1256000" />
       <workItem from="1760076174212" duration="347000" />
       <workItem from="1760078737734" duration="12789000" />
-      <workItem from="1760159434812" duration="3049000" />
-    </task>
-    <task id="LOCAL-00013" summary="feat: add Evaluation &amp; Model Tuning">
-      <option name="closed" value="true" />
-      <created>1752935281450</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1752935281450</updated>
-    </task>
-    <task id="LOCAL-00014" summary="feat: add README.md">
-      <option name="closed" value="true" />
-      <created>1752935687656</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1752935687656</updated>
+      <workItem from="1760159434812" duration="3895000" />
+      <workItem from="1760188773628" duration="23000" />
+      <workItem from="1760188805321" duration="8512000" />
+      <workItem from="1760203533812" duration="1726000" />
+      <workItem from="1760241525719" duration="32142000" />
     </task>
     <task id="LOCAL-00015" summary="fix: update README.md">
       <option name="closed" value="true" />
@@ -561,7 +548,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760026920050</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="fix: refactor">
+      <option name="closed" value="true" />
+      <created>1760167036643</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1760167036643</updated>
+    </task>
+    <task id="LOCAL-00063" summary="fix: add README">
+      <option name="closed" value="true" />
+      <created>1760167056360</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1760167056360</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,8 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: add prediction visualization" />
-    <MESSAGE value="feat: add README file" />
     <MESSAGE value="feat: rename directory" />
     <MESSAGE value="feat: add Evaluation &amp; Model Tuning" />
     <MESSAGE value="feat: add Titanic Prediction Project" />
@@ -616,7 +617,9 @@
     <MESSAGE value="fix: refactor code" />
     <MESSAGE value="update: add knn with numpy" />
     <MESSAGE value="fix: update readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update readme" />
+    <MESSAGE value="fix: refactor" />
+    <MESSAGE value="fix: add README" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: add README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
