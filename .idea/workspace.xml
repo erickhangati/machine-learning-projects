@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add README file" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update README">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN/knn-with-scikit-learn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-scikit-learn/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,14 +171,10 @@
       <workItem from="1760203533812" duration="1726000" />
       <workItem from="1760241525719" duration="34701000" />
       <workItem from="1760288252522" duration="1961000" />
-    </task>
-    <task id="LOCAL-00018" summary="fix: add README.md">
-      <option name="closed" value="true" />
-      <created>1753195124410</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1753195124410</updated>
+      <workItem from="1760330593087" duration="2857000" />
+      <workItem from="1760349812169" duration="1894000" />
+      <workItem from="1760354226510" duration="603000" />
+      <workItem from="1760354913810" duration="303000" />
     </task>
     <task id="LOCAL-00019" summary="feat: add customer chun prediction project">
       <option name="closed" value="true" />
@@ -561,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760288339959</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="fix: refactor code">
+      <option name="closed" value="true" />
+      <created>1760332069362</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1760332069363</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +598,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: add Titanic Prediction Project" />
     <MESSAGE value="feat: add customer chun prediction project" />
     <MESSAGE value="fix: add README.md" />
     <MESSAGE value="fix: update README.md" />
@@ -609,14 +615,15 @@
     <MESSAGE value="fix: update house price prediction readme" />
     <MESSAGE value="add: appointment prediction readme" />
     <MESSAGE value="add: logistic regression projects readme" />
-    <MESSAGE value="fix: refactor code" />
     <MESSAGE value="update: add knn with numpy" />
     <MESSAGE value="fix: update readme" />
     <MESSAGE value="fix: refactor" />
     <MESSAGE value="fix: add README" />
     <MESSAGE value="update: add knn with scikit-learn project" />
     <MESSAGE value="update: add README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: add README file" />
+    <MESSAGE value="fix: refactor code" />
+    <MESSAGE value="fix: update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

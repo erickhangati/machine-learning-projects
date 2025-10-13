@@ -89,4 +89,4 @@ knn-with-scikit-learn/
 ## 📘 Blog Article
 
 A full, beginner-friendly walkthrough of this project is available on my blog:
-[######](https://erickhangati.com/)
+[KNN with Scikit-Learn: A Heart Disease Prediction Guide](https://erickhangati.com/knn-with-scikit-learn-heart-disease-prediction/)
