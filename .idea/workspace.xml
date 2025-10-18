@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update README">
-      <change afterPath="$PROJECT_DIR$/SVM/svm-with-numpy/breast-cancer-detection.ipynb" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add svm with numpy project">
+      <change afterPath="$PROJECT_DIR$/SVM/svm-with-numpy/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,15 +186,7 @@
       <workItem from="1760708092527" duration="1146000" />
       <workItem from="1760716199622" duration="375000" />
       <workItem from="1760717794634" duration="5273000" />
-      <workItem from="1760757375487" duration="24211000" />
-    </task>
-    <task id="LOCAL-00019" summary="feat: add customer chun prediction project">
-      <option name="closed" value="true" />
-      <created>1753375574178</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1753375574178</updated>
+      <workItem from="1760757375487" duration="26298000" />
     </task>
     <task id="LOCAL-00020" summary="feat: add README.md">
       <option name="closed" value="true" />
@@ -580,7 +572,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760332069363</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="update: add svm with numpy project">
+      <option name="closed" value="true" />
+      <created>1760799871096</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1760799871096</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,7 +610,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: add customer chun prediction project" />
     <MESSAGE value="fix: add README.md" />
     <MESSAGE value="fix: update README.md" />
     <MESSAGE value="feat: add EDA project" />
@@ -635,7 +634,8 @@
     <MESSAGE value="update: add README file" />
     <MESSAGE value="fix: refactor code" />
     <MESSAGE value="fix: update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update README" />
+    <MESSAGE value="update: add svm with numpy project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: add svm with numpy project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
