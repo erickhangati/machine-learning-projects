@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update README">
+      <change afterPath="$PROJECT_DIR$/SVM/svm-with-numpy/breast-cancer-detection.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN/knn-with-scikit-learn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-scikit-learn/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +174,19 @@
       <workItem from="1760330593087" duration="2857000" />
       <workItem from="1760349812169" duration="1894000" />
       <workItem from="1760354226510" duration="603000" />
-      <workItem from="1760354913810" duration="303000" />
+      <workItem from="1760354913810" duration="614000" />
+      <workItem from="1760355556087" duration="5563000" />
+      <workItem from="1760371983518" duration="3763000" />
+      <workItem from="1760412687873" duration="10703000" />
+      <workItem from="1760434673496" duration="4323000" />
+      <workItem from="1760582710918" duration="5798000" />
+      <workItem from="1760600315840" duration="7944000" />
+      <workItem from="1760635641740" duration="1736000" />
+      <workItem from="1760674008057" duration="9147000" />
+      <workItem from="1760708092527" duration="1146000" />
+      <workItem from="1760716199622" duration="375000" />
+      <workItem from="1760717794634" duration="5273000" />
+      <workItem from="1760757375487" duration="24211000" />
     </task>
     <task id="LOCAL-00019" summary="feat: add customer chun prediction project">
       <option name="closed" value="true" />
