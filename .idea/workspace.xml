@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add svm with numpy project">
-      <change afterPath="$PROJECT_DIR$/SVM/svm-with-numpy/README.md" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVM/svm-with-numpy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/svm-with-numpy/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,15 +186,8 @@
       <workItem from="1760708092527" duration="1146000" />
       <workItem from="1760716199622" duration="375000" />
       <workItem from="1760717794634" duration="5273000" />
-      <workItem from="1760757375487" duration="26298000" />
-    </task>
-    <task id="LOCAL-00020" summary="feat: add README.md">
-      <option name="closed" value="true" />
-      <created>1753376023294</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1753376023294</updated>
+      <workItem from="1760757375487" duration="27425000" />
+      <workItem from="1760850914811" duration="891000" />
     </task>
     <task id="LOCAL-00021" summary="fix: add README.md">
       <option name="closed" value="true" />
@@ -580,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760799871096</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="update: add README">
+      <option name="closed" value="true" />
+      <created>1760801726923</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1760801726923</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: add README.md" />
     <MESSAGE value="fix: update README.md" />
     <MESSAGE value="feat: add EDA project" />
     <MESSAGE value="feat: add README.md" />
@@ -635,7 +635,8 @@
     <MESSAGE value="fix: refactor code" />
     <MESSAGE value="fix: update README" />
     <MESSAGE value="update: add svm with numpy project" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: add svm with numpy project" />
+    <MESSAGE value="update: add README" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: add README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

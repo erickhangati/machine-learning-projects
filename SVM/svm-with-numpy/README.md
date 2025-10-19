@@ -103,4 +103,4 @@ The model demonstrates strong generalization with near-perfect separation betwee
 ## 📘 Blog Article
 
 A full, beginner-friendly walkthrough of this project is available on my blog:
-[XXX](https://erickhangati.com/)
+[Build a Support Vector Machine From Scratch using Numpy](https://erickhangati.com/build-a-support-vector-machine-from-using-numpy/)
