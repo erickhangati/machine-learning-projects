@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: update README">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: remove univariate analysis anchor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVM/svm-with-numpy/breast-cancer-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/svm-with-numpy/breast-cancer-detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN/knn-with-numpy/KNN-diabetes-prediction-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-numpy/KNN-diabetes-prediction-numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN/knn-with-scikit-learn/predicting-heart-disease.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/knn-with-scikit-learn/predicting-heart-disease.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decision-trees/titanic-survival-prediction-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/decision-trees/titanic-survival-prediction-project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/logistic-regression/healthcare-appointment/healthcare-appointment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree-ensembles/customer-chun-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tree-ensembles/customer-chun-prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,29 +52,29 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/CODE/MACHINE_LEARNING/PROJECTS/machine-learning-projects/tree-ensembles",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\tree-ensembles" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\KNN" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression\healthcare-appointment" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression" />
-      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\exploratory-data-analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\KNN\knn-with-numpy" />
@@ -189,23 +193,7 @@
       <workItem from="1760757375487" duration="27425000" />
       <workItem from="1760850914811" duration="13386000" />
       <workItem from="1760935484232" duration="595000" />
-      <workItem from="1760940365144" duration="1594000" />
-    </task>
-    <task id="LOCAL-00022" summary="fix: add README.md">
-      <option name="closed" value="true" />
-      <created>1753376539555</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1753376539555</updated>
-    </task>
-    <task id="LOCAL-00023" summary="fix: add README.md">
-      <option name="closed" value="true" />
-      <created>1753376649793</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1753376649793</updated>
+      <workItem from="1760940365144" duration="10746000" />
     </task>
     <task id="LOCAL-00024" summary="fix: add README.md">
       <option name="closed" value="true" />
@@ -583,7 +571,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760854666512</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="fix: add univariate analysis anchor">
+      <option name="closed" value="true" />
+      <created>1760943183349</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1760943183349</updated>
+    </task>
+    <task id="LOCAL-00072" summary="fix: remove univariate analysis anchor">
+      <option name="closed" value="true" />
+      <created>1760943300150</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1760943300150</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,8 +617,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: update README.md" />
-    <MESSAGE value="feat: add EDA project" />
     <MESSAGE value="feat: add README.md" />
     <MESSAGE value="feat: add dataset" />
     <MESSAGE value="fix: update EDA" />
@@ -638,7 +640,9 @@
     <MESSAGE value="update: add svm with numpy project" />
     <MESSAGE value="update: add README" />
     <MESSAGE value="fix: update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update README" />
+    <MESSAGE value="fix: add univariate analysis anchor" />
+    <MESSAGE value="fix: remove univariate analysis anchor" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: remove univariate analysis anchor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
