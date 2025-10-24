@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactored code">
-      <change afterPath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart-failure-prediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart_failure_clinical_records_dataset.csv" afterDir="false" />
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add heart failure project">
+      <change afterPath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,15 +193,7 @@
       <workItem from="1761040255908" duration="1335000" />
       <workItem from="1761115466993" duration="483000" />
       <workItem from="1761195947273" duration="24978000" />
-      <workItem from="1761273764466" duration="30188000" />
-    </task>
-    <task id="LOCAL-00025" summary="fix: add README.md">
-      <option name="closed" value="true" />
-      <created>1753376891286</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1753376891286</updated>
+      <workItem from="1761273764466" duration="31499000" />
     </task>
     <task id="LOCAL-00026" summary="fix: add README.md">
       <option name="closed" value="true" />
@@ -588,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760968286867</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="update: add heart failure project">
+      <option name="closed" value="true" />
+      <created>1761323507876</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1761323507877</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,7 +617,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: add README.md" />
     <MESSAGE value="feat: add dataset" />
     <MESSAGE value="fix: update EDA" />
     <MESSAGE value="update: re-arrange files" />
@@ -643,7 +641,8 @@
     <MESSAGE value="fix: add univariate analysis anchor" />
     <MESSAGE value="fix: remove univariate analysis anchor" />
     <MESSAGE value="fix: refactored code" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: refactored code" />
+    <MESSAGE value="update: add heart failure project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: add heart failure project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
