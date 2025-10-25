@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add README">
-      <change afterPath="$PROJECT_DIR$/SVM/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart-failure-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart-failure-prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,15 +193,8 @@
       <workItem from="1761040255908" duration="1335000" />
       <workItem from="1761115466993" duration="483000" />
       <workItem from="1761195947273" duration="24978000" />
-      <workItem from="1761273764466" duration="32647000" />
-    </task>
-    <task id="LOCAL-00027" summary="fix: update README.md">
-      <option name="closed" value="true" />
-      <created>1753418838372</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1753418838372</updated>
+      <workItem from="1761273764466" duration="33493000" />
+      <workItem from="1761367011197" duration="3485000" />
     </task>
     <task id="LOCAL-00028" summary="feat: add EDA project">
       <option name="closed" value="true" />
@@ -587,7 +580,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761324666643</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="update: add README">
+      <option name="closed" value="true" />
+      <created>1761325798730</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1761325798730</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
