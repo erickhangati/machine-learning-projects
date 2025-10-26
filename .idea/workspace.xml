@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add README">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactor code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart-failure-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart-failure-prediction.ipynb" afterDir="false" />
     </list>
@@ -54,7 +54,7 @@
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CODE/MACHINE_LEARNING/PROJECTS/machine-learning-projects/SVM/svm-with-scikit-learn&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -194,15 +194,9 @@
       <workItem from="1761115466993" duration="483000" />
       <workItem from="1761195947273" duration="24978000" />
       <workItem from="1761273764466" duration="33493000" />
-      <workItem from="1761367011197" duration="3485000" />
-    </task>
-    <task id="LOCAL-00028" summary="feat: add EDA project">
-      <option name="closed" value="true" />
-      <created>1755014236575</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1755014236575</updated>
+      <workItem from="1761367011197" duration="10084000" />
+      <workItem from="1761452852823" duration="2288000" />
+      <workItem from="1761455189718" duration="2187000" />
     </task>
     <task id="LOCAL-00029" summary="feat: add README.md">
       <option name="closed" value="true" />
@@ -588,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761325798730</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="fix: refactor code">
+      <option name="closed" value="true" />
+      <created>1761382162515</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1761382162516</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +637,6 @@
     <MESSAGE value="fix: add README" />
     <MESSAGE value="update: add knn with scikit-learn project" />
     <MESSAGE value="update: add README file" />
-    <MESSAGE value="fix: refactor code" />
     <MESSAGE value="update: add svm with numpy project" />
     <MESSAGE value="fix: update README" />
     <MESSAGE value="fix: add univariate analysis anchor" />
@@ -643,7 +644,8 @@
     <MESSAGE value="fix: refactored code" />
     <MESSAGE value="update: add heart failure project" />
     <MESSAGE value="update: add README" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: add README" />
+    <MESSAGE value="fix: refactor code" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: refactor code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
