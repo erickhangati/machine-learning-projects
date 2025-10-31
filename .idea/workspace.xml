@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactor code">
+      <change afterPath="$PROJECT_DIR$/decision-trees/decision-trees-numpy/Breast_Cancer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decision-trees/decision-trees-numpy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decision-trees/decision-trees-numpy/descision-trees-numpy.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart-failure-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/svm-with-scikit-learn/heart-failure-prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decision-trees/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/decision-trees/decision-trees-scikit-learn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decision-trees/titanic-dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/decision-trees/decision-trees-scikit-learn/titanic-dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decision-trees/titanic-survival-prediction-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/decision-trees/decision-trees-scikit-learn/titanic-survival-prediction-project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +60,7 @@
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CODE/MACHINE_LEARNING/PROJECTS/machine-learning-projects/decision-trees&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -66,18 +72,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\SVM\svm-with-scikit-learn" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\tree-ensembles" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\KNN" />
-      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression\healthcare-appointment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees\decision-trees-numpy" />
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees\decision-trees-scikit-learn" />
+      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\decision-trees\decision-tree-scikit-learn" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\KNN\knn-with-numpy" />
       <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\logistic-regression\email-spam-classification" />
-      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\linear-regression\house-price-prediction" />
-      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects\linear-regression\medical-insurance-charges-prediction" />
-      <recent name="D:\CODE\MACHINE_LEARNING\PROJECTS\machine-learning-projects" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -196,15 +202,11 @@
       <workItem from="1761273764466" duration="33493000" />
       <workItem from="1761367011197" duration="10084000" />
       <workItem from="1761452852823" duration="2288000" />
-      <workItem from="1761455189718" duration="2187000" />
-    </task>
-    <task id="LOCAL-00029" summary="feat: add README.md">
-      <option name="closed" value="true" />
-      <created>1755072952324</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1755072952324</updated>
+      <workItem from="1761455189718" duration="12193000" />
+      <workItem from="1761752793113" duration="9000" />
+      <workItem from="1761798442906" duration="1207000" />
+      <workItem from="1761803539515" duration="27442000" />
+      <workItem from="1761880075436" duration="27132000" />
     </task>
     <task id="LOCAL-00030" summary="feat: add dataset">
       <option name="closed" value="true" />
@@ -590,7 +592,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761382162516</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="fix: refactor code">
+      <option name="closed" value="true" />
+      <created>1761457634405</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1761457634406</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
