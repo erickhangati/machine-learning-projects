@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="update: add decision tree with numpy project">
+    <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactor code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decision-trees/decision-trees-numpy/descision-trees-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/decision-trees/decision-trees-numpy/descision-trees-numpy.ipynb" afterDir="false" />
     </list>
@@ -203,15 +203,9 @@
       <workItem from="1761880075436" duration="29210000" />
       <workItem from="1762005448722" duration="7806000" />
       <workItem from="1762054477621" duration="14570000" />
-      <workItem from="1762072533504" duration="1817000" />
-    </task>
-    <task id="LOCAL-00032" summary="fix: update EDA">
-      <option name="closed" value="true" />
-      <created>1756288010751</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1756288010751</updated>
+      <workItem from="1762072533504" duration="2552000" />
+      <workItem from="1762241155356" duration="13000" />
+      <workItem from="1762249261818" duration="649000" />
     </task>
     <task id="LOCAL-00033" summary="fix: update EDA">
       <option name="closed" value="true" />
@@ -597,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761924542845</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="fix: refactor code">
+      <option name="closed" value="true" />
+      <created>1762075077172</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1762075077172</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,9 +652,9 @@
     <MESSAGE value="fix: refactored code" />
     <MESSAGE value="update: add heart failure project" />
     <MESSAGE value="update: add README" />
-    <MESSAGE value="fix: refactor code" />
     <MESSAGE value="update: add decision tree with numpy project" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: add decision tree with numpy project" />
+    <MESSAGE value="fix: refactor code" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: refactor code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
