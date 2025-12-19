@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74449ee-4c68-43e7-bca2-1aef5dd730a6" name="Changes" comment="fix: refactor code">
+      <change afterPath="$PROJECT_DIR$/KMeans/kmeans-from-scratch-with-python.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decision-trees/decision-trees-numpy/descision-trees-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/decision-trees/decision-trees-numpy/descision-trees-numpy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,14 +206,7 @@
       <workItem from="1762072533504" duration="2552000" />
       <workItem from="1762241155356" duration="13000" />
       <workItem from="1762249261818" duration="649000" />
-    </task>
-    <task id="LOCAL-00033" summary="fix: update EDA">
-      <option name="closed" value="true" />
-      <created>1758349142369</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1758349142369</updated>
+      <workItem from="1766153890906" duration="9865000" />
     </task>
     <task id="LOCAL-00034" summary="update: re-arrange files">
       <option name="closed" value="true" />
@@ -599,7 +592,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762075077172</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="fix: refactor code">
+      <option name="closed" value="true" />
+      <created>1766154110958</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1766154110958</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
